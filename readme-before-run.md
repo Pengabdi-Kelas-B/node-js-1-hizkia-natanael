@@ -12,7 +12,7 @@ Aplikasi berbasis Command Line Interface (CLI) ini dibuat menggunakan Node.js da
 ## Prasyarat
 Pastikan **Node.js** sudah terpasang di sistem Anda. Jika belum, Anda bisa mengunduhnya di [Node.js Official Site](https://nodejs.org/).
 
-## Instalasi
+## Instalasi DAN CARA MENJALANKAN PROGRAM
 
 1. Clone repositori ini ke komputer Anda:
    ```bash
